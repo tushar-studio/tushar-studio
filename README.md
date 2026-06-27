@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tushar! 👋
 
-<!--
-**tushar-studio/tushar-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital studio. I'm a developer and creator focused on building structured database solutions and crafting high-end digital media.
 
-Here are some ideas to get you started:
+## 🛠️ What I Do
+*   **Data & Logic:** Designing clean SQL databases, optimizing queries, and handling data workflows.
+*   **Digital Creation:** Advanced video/photo editing, cinematic content production, and asset creation.
+*   **The Mission:** Merging precise technical execution with creative visual storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Tools
+*   **Backend & Data:** SQL (MySQL / PostgreSQL)
+*   **Version Control:** Git & GitHub
+*   **Creative Suite:** Premiere Pro, Photoshop, AI Voice Generation Tools
+
+---
+*“Logic will get you from A to B. Imagination will take you everywhere.”*
